@@ -9,6 +9,6 @@ This repo contains code for my YouTube video tutorial on how to customise a Stre
  * Streamlit
 
 ## This is what the web application look like...
-There is noting revolutionary about it at the moment.
+There is noting revolutionary about it at the moment. It does not even record any inputs.
 
    ![xbox theme](https://user-images.githubusercontent.com/92593501/139585580-adf9deb1-527c-4de7-b7ff-17891b62b6d4.png)
